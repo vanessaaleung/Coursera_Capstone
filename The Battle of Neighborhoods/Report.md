@@ -6,7 +6,13 @@
 	<p>
 		Exploring neiborhoods in New York, Tokyo, and Chongqing, the biggest cities in the United States, Japan, and China. Compare the neighborhoods of the three cities and determine how similar or dissimilar they are. Is New York more like Tokyo or Chongqing?
 	</p>
+	<p>
+		<b> Target audience </b> could be multinational companies who plan to expand their branches in one or more of these big cities. It could also be government agencies that are in charge of city development.
+	</p>
 	<h2> Data </h2>
+	<p>
+		Datasets are including postal codes and corresponding neighborhoods in the cities.
+	</p>
 	<p>
 		1. Foursquare location data </br>
 		2. New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
