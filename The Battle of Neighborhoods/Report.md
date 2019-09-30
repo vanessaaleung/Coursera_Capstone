@@ -10,7 +10,7 @@
 		<b> Target audience </b> could be multinational companies who plan to expand their branches in one or more of these big cities. The analysis could help with their business plan, or refer to a previous plan of a similar city. 
 	</p>
 	<p>
-		<b> The target audience </b> could also be government agencies that are in charge of city development.
+		The target audience could also be government agencies that are in charge of city development.
 	</p>
 	<h2> Data </h2>
 	<p>
