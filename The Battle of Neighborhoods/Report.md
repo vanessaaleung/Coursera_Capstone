@@ -17,7 +17,7 @@
 		The target audience could also be government agencies that are in charge of city development. The agencies may want to refer the development plans of big cities that share similar characteristics with them.
 	</p>	
 	<h2> 2. Data </h2>
-	<h3> 2.2 Data Sources </h3>
+	<h3> 2.1 Data Sources </h3>
 	<p>
 		Datasets include features of postal codes and corresponding neighborhoods in the cities.
 	</p>
@@ -26,5 +26,10 @@
 		2. New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
 		3. Tokyo Postal Codes & Neighborhoods: http://japanzipcodes.blogspot.com/ </br>
 		4. Chongqing Postal Codes & Neighborhoods: https://www.travelchinaguide.com/essential/area_zip/chongqing.htm </br>
+	</p>
+	<h2> 3. Exploratory Data Analysis </h2>
+	<h2> 4. Clustering </h2>
+	<h2> 5. Conclusions </h2>
+	<h2> 6. Recommendations </h2>
 </body>
 </html>
