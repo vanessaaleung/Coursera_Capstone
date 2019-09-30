@@ -11,7 +11,7 @@
 	</p>
 	<h2> Data </h2>
 	<p>
-		Datasets are including postal codes and corresponding neighborhoods in the cities.
+		Datasets include features of postal codes and corresponding neighborhoods in the cities.
 	</p>
 	<p>
 		1. Foursquare location data </br>
