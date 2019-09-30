@@ -2,6 +2,7 @@
 <html lang="en">
 <body>
 	<h1> Capstone Project - The Battle of Neighborhoods </h1>
+	<img src = "https://github.com/vanessaaleung/Coursera_Capstone/blob/master/The%20Battle%20of%20Neighborhoods/jonathan-riley-VW8MUbHyxCU-unsplash.jpg">
 	<h2> 1. Introduction </h2>
 	<h3> 1.1 Background </h3>
 	<p>
