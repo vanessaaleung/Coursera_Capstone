@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 	<h1> Capstone Project - The Battle of Neighborhoods </h1>
-	<h2> Introduction of the Business Problem </h2>
+	<h2> Introduction </h2>
 	<p>
 		Exploring neiborhoods in New York, Tokyo, and Chongqing, the biggest cities in the United States, Japan, and China. Compare the neighborhoods of the three cities and determine how similar or dissimilar they are. Is New York more like Tokyo or Chongqing?
 	</p>
