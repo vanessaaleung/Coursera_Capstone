@@ -8,9 +8,9 @@
 	</p>
 	<h2> Data </h2>
 	<p>
-		Foursquare location data </br>
-		New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
-		Tokyo Postal Codes & Neighborhoods: http://japanzipcodes.blogspot.com/ </br>
-		Chongqing Postal Codes & Neighborhoods: https://www.travelchinaguide.com/essential/area_zip/chongqing.htm </br>
+		1. Foursquare location data </br>
+		2. New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
+		3. Tokyo Postal Codes & Neighborhoods: http://japanzipcodes.blogspot.com/ </br>
+		4. Chongqing Postal Codes & Neighborhoods: https://www.travelchinaguide.com/essential/area_zip/chongqing.htm </br>
 </body>
 </html>
