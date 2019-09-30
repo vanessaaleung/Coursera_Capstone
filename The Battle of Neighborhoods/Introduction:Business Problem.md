@@ -1,8 +1,5 @@
 <!DOCTYPE HTML>
 <html lang="en">
-<head>
-	<title>Introduction/Business Problem</title>
-</head>
 <body>
 	<h1> Capstone Project - The Battle of Neighborhoods </h1>
 	<h2> Introduction/Business Problem </h2>
