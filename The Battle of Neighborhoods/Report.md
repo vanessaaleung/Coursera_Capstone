@@ -17,7 +17,7 @@
 		Datasets include features of postal codes and corresponding neighborhoods in the cities.
 	</p>
 	<p>
-		1. Foursquare location data </br> to get the latitude and longitude of cities and neighborhoods, and get the nearby venues.
+		1. Foursquare location data: to get the latitude and longitude of cities and neighborhoods, and get the nearby venues. </br>
 		2. New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
 		3. Tokyo Postal Codes & Neighborhoods: http://japanzipcodes.blogspot.com/ </br>
 		4. Chongqing Postal Codes & Neighborhoods: https://www.travelchinaguide.com/essential/area_zip/chongqing.htm </br>
