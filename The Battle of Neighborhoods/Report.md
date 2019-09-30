@@ -8,7 +8,7 @@
 	</p>
 	<h2> Data </h2>
 	<p>
-		Foursquare location data
+		Foursquare location data </br>
 		New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
 		Tokyo Postal Codes & Neighborhoods: http://japanzipcodes.blogspot.com/ </br>
 		Chongqing Postal Codes & Neighborhoods: https://www.travelchinaguide.com/essential/area_zip/chongqing.htm </br>
