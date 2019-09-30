@@ -16,7 +16,8 @@
 	<p>
 		The target audience could also be government agencies that are in charge of city development. The agencies may want to refer the development plans of big cities that share similar characteristics with them.
 	</p>	
-	<h2> Data </h2>
+	<h2> 2. Data </h2>
+	<h3> 2.2 Data Sources </h3>
 	<p>
 		Datasets include features of postal codes and corresponding neighborhoods in the cities.
 	</p>
