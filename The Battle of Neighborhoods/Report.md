@@ -12,7 +12,7 @@
 		This project aims to segment and cluster neighborhoods in New York, Tokyo, and Boston. Discover which neighborhoods have coffee shops as their top venues. Despite crowding with coffee shops, what are these neighborhoods share in common? Are they also have similar shops as top venues?
 	<h3> 1.3 Interests </h3>
 	<p>
-		<b> The result of this project can be referred by coffee companies aiming to expand their new branches in the State.
+		The result of this project can be referred by coffee companies aiming to expand their new branches in the State.
 	</p>
 	<h2> 2. Data </h2>
 	<h3> 2.1 Data Sources </h3>
