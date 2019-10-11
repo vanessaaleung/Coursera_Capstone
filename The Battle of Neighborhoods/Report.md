@@ -6,10 +6,10 @@
 	<h2> 1. Introduction </h2>
 	<h3> 1.1 Background </h3>
 	<p>
-		Which neighborhoods in U.S. love coffee most? This project analyze neighborhoods in New York, San Francisco, Boston, find the neighborhoods with coffee shop as top venues. 
+		Which neighborhoods in the U.S. love coffee most? This project analyzes neighborhoods in New York, San Francisco, Boston, find the neighborhoods with coffee shops as top venues. 
 	<h3> 1.2 Problem </h3>
 	<p>
-		This project aims to segment and cluster neighborhoods in New York, Tokyo, and Boston. Discover which neighborhoods have coffee shop as their top venues. Despite crowding with coffee shops, what are these neighborhoods share in common? Are they also have similar shops as top venues?
+		This project aims to segment and cluster neighborhoods in New York, Tokyo, and Boston. Discover which neighborhoods have coffee shops as their top venues. Despite crowding with coffee shops, what are these neighborhoods share in common? Are they also have similar shops as top venues?
 	<h3> 1.3 Interests </h3>
 	<p>
 		<b> The result of this project can be referred by coffee companies aiming to expand their new branches in the State.
