@@ -1,22 +1,19 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <body>
-	<h1> Capstone Project - The Battle of Neighborhoods </h1>
+	<h1> Capstone Project - U.S. Coffee Lovers Neighborhoods </h1>
 	<img src = "https://github.com/vanessaaleung/Coursera_Capstone/blob/master/The%20Battle%20of%20Neighborhoods/jonathan-riley-VW8MUbHyxCU-unsplash.jpg">
 	<h2> 1. Introduction </h2>
 	<h3> 1.1 Background </h3>
 	<p>
-		New York, Tokyo, and Chongqing, are the biggest cities in the United States, Japan, and China, respectively. The neighborhoods in these cities are assumed to be most dynamic ones in the country.
+		Which neighborhoods in U.S. love coffee most? This project analyze neighborhoods in New York, San Francisco, Boston, find the neighborhoods with coffee shop as top venues. 
 	<h3> 1.2 Problem </h3>
 	<p>
-		This project aims to segment and cluster neighborhoods in New York, Tokyo, and Chongqing. Discover their neighborhoods similarities and dissimilarities.
+		This project aims to segment and cluster neighborhoods in New York, Tokyo, and Boston. Discover which neighborhoods have coffee shop as their top venues. Despite crowding with coffee shops, what are these neighborhoods share in common? Are they also have similar shops as top venues?
 	<h3> 1.3 Interests </h3>
 	<p>
-		<b> Target audience </b> could be multinational companies who plan to expand their branches in one or more of these big cities. The analysis could help with their business plan, or refer to a previous plan of a similar city. 
+		<b> The result of this project can be referred by coffee companies aiming to expand their new branches in the State.
 	</p>
-	<p>
-		The target audience could also be government agencies that are in charge of city development. The agencies may want to refer the development plans of big cities that share similar characteristics with them.
-	</p>	
 	<h2> 2. Data </h2>
 	<h3> 2.1 Data Sources </h3>
 	<p>
@@ -25,8 +22,8 @@
 	<p>
 		1. Foursquare location data: to get the latitude and longitude of cities and neighborhoods, and get the nearby venues. </br>
 		2. New York Postal Codes & Neighborhoods: https://geo.nyu.edu/catalog/nyu_2451_34572 </br>
-		3. Tokyo Postal Codes & Neighborhoods: http://japanzipcodes.blogspot.com/ </br>
-		4. Chongqing Postal Codes & Neighborhoods: https://www.travelchinaguide.com/essential/area_zip/chongqing.htm </br>
+		3. Boston Postal Codes & Neighborhoods: http://archive.boston.com/news/local/articles/2007/04/15/sixfigurezipcodes_city/ </br>
+		4. SF Postal Codes & Neighborhoods: http://www.healthysf.org/bdi/outcomes/zipmap.htm </br>
 	</p>
 	<h2> 3. Exploratory Data Analysis </h2>
 	<h2> 4. Clustering </h2>
